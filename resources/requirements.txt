@@ -1,0 +1,6 @@
+opencv-python
+imutils
+joblib
+numpy
+scikit-image
+scikit-learn
