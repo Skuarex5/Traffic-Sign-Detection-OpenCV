@@ -45,5 +45,6 @@ pip install -r requirements.txt
    Press "q" to quit.
 
 📸 Example
+
 ![Demo](image.png)
 
