@@ -45,6 +45,7 @@ pip install -r requirements.txt
    Press "q" to quit.
 
 📸 Example
-
-![Demo](image.png)
+<p align="center">
+  <img src="./image.png" alt="Detection" width="500">
+</p>
 
